@@ -1,1 +1,6 @@
 hi this is file 1 . txt
+
+commit 6706bcc6ce95ac835facbba2a09d2e22b1862059 (HEAD -> master)
+Author: gaurav devops <gaurav@example.com>
+Date:   Mon May 26 06:51:53 2025 +0000
+

@@ -1,0 +1,11 @@
+1> free / enterprises 
+2> easy to use
+3> plugins 
+
+code --> scm --> server --> artifact --> (code + artifact) quality check --> deploy
+
+continuous delivery --> ci process --> (manual interference) Deployment --> prod
+
+continuous Deployment  --> ci process -->(automatic manner) deployment --->test
+
+Gaurav
