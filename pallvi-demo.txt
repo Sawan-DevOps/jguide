@@ -1,0 +1,4 @@
+# Stop instances
+        response = ec2.stop_instances(InstanceIds=instance_ids)
+        stopping_instances = response['StoppingInstances']
+        
