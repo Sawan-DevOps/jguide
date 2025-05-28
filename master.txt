@@ -1,0 +1,5 @@
+Jenkins --> 8080 
+
+root directory of Jenkins --> /var/lib/Jenkins
+
+user --> jenkins
